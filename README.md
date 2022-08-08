@@ -3,4 +3,4 @@ RimWorld mod that makes all female animals produce milk based on their meat to m
 
 
 To anyone wanting to create compatibility, the meat to milk ratio is for every 27 units of meat on an adult animal, the animal produces 1 unit of milk.
-The lowest and highest in Core is 24 and 32, respectively
+The lowest and highest in Core is 24 and 32 per 1 unit of milk, respectively
